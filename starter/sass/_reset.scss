@@ -5,10 +5,12 @@
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	box-sizing: border-box;
+	line-height: 1;
 }
 
 body {
-	lineheight: 1;
+
 }
 
 ol, ul {
